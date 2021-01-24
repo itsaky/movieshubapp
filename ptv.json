@@ -1,0 +1,6 @@
+{
+  "api_key": "c550f8f5e59f449",
+  "home_content": "http://panel98.redflixtv.xyz/rest-api//v100/home_content_for_android",
+  "single_details": "http://panel98.redflixtv.xyz/rest-api//v100/single_details",
+  "genre_movies": "http://panel98.redflixtv.xyz/rest-api//v100/content_by_genre_id"
+}
