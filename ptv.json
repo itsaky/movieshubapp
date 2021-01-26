@@ -3,5 +3,7 @@
   "home_content": "http://panel98.redflixtv.xyz/rest-api//v100/home_content_for_android",
   "single_details": "http://panel98.redflixtv.xyz/rest-api//v100/single_details",
   "genre_movies": "http://panel98.redflixtv.xyz/rest-api//v100/content_by_genre_id",
+  "latest_movies": "http://panel98.redflixtv.xyz/rest-api//v100/movies?page=",
+  "latest_series": "http://panel98.redflixtv.xyz/rest-api//v100/tvseries?page=",
   "ptv_search": "https://panel98.redflixtv.xyz/rest-api//v100/search?q=$q$&type=movietvserieslive&range_to=0&range_from=0&tv_category_id=0&genre_id=0&country_id=0"
 }
